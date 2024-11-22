@@ -8,7 +8,7 @@ Este proyecto es una herramienta de asistencia legal que permite gestionar exped
 ## 2. Flujo de Trabajo Principal
 
 ### 2.1 Carga de Expedientes
-1. En el menú principal, selecciona la opción **"Cargar Expediente"**.
+1. Selecciona la opción **"Cargar Expediente"**.
 2. Haz clic en el botón **"Subir Archivo"** y selecciona un documento PDF.
 3. El sistema verificará el formato y tamaño del archivo. Si es correcto, se mostrará un mensaje de éxito.
 
