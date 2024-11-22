@@ -23,8 +23,7 @@ Este proyecto es una herramienta de asistencia legal que permite gestionar exped
 3. El sistema mostrará una lista de leyes recomendadas para el caso.
 
 ### 2.4 Visualización de Resultados
-1. Desde el menú principal, selecciona **"Ver Resultados"**.
-2. Visualiza el expediente original y las leyes recomendadas en una interfaz clara y organizada.
+1. Visualiza el expediente original y las leyes recomendadas en una interfaz clara y organizada.
 
 ## Requisitos
 - Navegador web compatible.
