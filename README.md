@@ -21,7 +21,6 @@ Este proyecto es una herramienta de asistencia legal que permite gestionar exped
 1. Ve a la sección **"Análisis de Expedientes"**.
 2. Selecciona el expediente procesado de la lista.
 3. El sistema mostrará una lista de leyes recomendadas para el caso.
-4. Haz clic en **"Guardar Informe"** si deseas descargar un archivo con los resultados.
 
 ### 2.4 Visualización de Resultados
 1. Desde el menú principal, selecciona **"Ver Resultados"**.
