@@ -27,4 +27,3 @@ Este proyecto es una herramienta de asistencia legal que permite gestionar exped
 
 ## Requisitos
 - Navegador web compatible.
-- Conexión a internet.
