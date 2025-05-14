@@ -2,7 +2,7 @@ public class Test {
     public static void main(String[] args) {
         BSTree<Integer> bst = new BSTree<>();
 
-        // Inserción de elementos
+        // Inserción de elementos Nodo
         System.out.println("Insertando elementos en el BST...");
         bst.insert(10);
         bst.insert(30);
